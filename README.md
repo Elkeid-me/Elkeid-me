@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi!
 
-<!--
-**Elkeid-me/Elkeid-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Elkeid, majoring in Computer Science in Peking University.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elkeid-me&show_icons=true">
+ </p>
+ 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkeid-me&hide=batchfile,tex,css,javascript&layout=compact&langs_count=8">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my [homepage](https://elkeid-me.github.io/) (in Chinese)
