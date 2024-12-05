@@ -10,4 +10,4 @@ I'm Elkeid, majoring in Computer Science in Peking University.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkeid-me&layout=compact&langs_count=8&exclude_repo=jos-lab,csapp-3e-shell-lab,elkeid-me.github.io">
 </p>
 
-Welcome to my [homepage](https://elkeid-me.github.io/) (in Chinese)
+Check out my [blog](https://elkeid-me.github.io) (in Chinese).
