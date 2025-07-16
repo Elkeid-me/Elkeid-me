@@ -1,6 +1,8 @@
 ### Hi!
 
-I'm Elkeid, majoring in Computer Science in Peking University.
+I'm Elkeid, will pursue master's degree in Peking University in Sept. 2025, majoring in Computer Science.
+
+Recently, I received my Bachelor of Science degree from Peking University.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=elkeid-me&show_icons=true">
@@ -11,3 +13,5 @@ I'm Elkeid, majoring in Computer Science in Peking University.
 </p>
 
 Check out my [blog](https://elkeid-me.github.io) (in Chinese).
+
+E-mail: [elkeid.me@gmail.com](mailto:elkeid.me@gmail.com).
