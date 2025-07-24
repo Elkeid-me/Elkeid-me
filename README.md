@@ -13,5 +13,5 @@ E-mail: [elkeid.me@gmail.com](mailto:elkeid.me@gmail.com).
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkeid-me&layout=compact&langs_count=8&exclude_repo=jos-lab,csapp-3e-shell-lab,elkeid-me.github.io">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elkeid-me&layout=compact&langs_count=8&exclude_repo=csapp-3e-shell-lab,elkeid-me.github.io,jos-lab,md-ltx-intro">
 </p>
