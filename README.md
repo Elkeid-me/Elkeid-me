@@ -13,7 +13,7 @@ Check out my [blog](https://elkeid-me.github.io) (in Chinese) or E-mail me at [e
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elkeid-me&exclude=csapp-3e-shell-lab,Clomeaste,Creative-Electron-Theory-4.3,elkeid-me.github.io,jos-lab,Xenon-ATC-X,OCaml-RV64GO&theme=default">
+  <img src="https://github-readme-stats-five-coral-29.vercel.app/api?username=elkeid-me&show_icons=true">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elkeid-me&theme=default">
+  <img src="https://github-readme-stats-five-coral-29.vercel.app/api/top-langs/?username=elkeid-me&layout=compact&langs_count=8&exclude_repo=csapp-3e-shell-lab,Clomeaste,Creative-Electron-Theory-4.3,elkeid-me.github.io,jos-lab,Xenon-ATC-X,OCaml-RV64GO">
 </p>
