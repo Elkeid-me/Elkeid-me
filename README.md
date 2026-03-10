@@ -7,3 +7,13 @@ Recently, I received my Bachelor of Science degree from Peking University.
 I'm currently learning ![F#](https://img.shields.io/badge/F%23-white?style=flat&logo=fsharp), ![](https://img.shields.io/badge/Elixir-white?style=flat&logo=elixir&logoColor=7c6d91) and ![](https://img.shields.io/badge/Rust-white?style=flat&logo=rust&logoColor=black).
 
 Check out my [blog](https://elkeid-me.github.io) (in Chinese) or E-mail me at [elkeid.me@gmail.com](mailto:elkeid.me@gmail.com).
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elkeid-me&theme=default">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Elkeid-me&exclude=csapp-3e-shell-lab,Clomeaste,Creative-Electron-Theory-4.3,elkeid-me.github.io,jos-lab,Xenon-ATC-X,OCaml-RV64GO&theme=default">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elkeid-me&theme=default">
+</p>
